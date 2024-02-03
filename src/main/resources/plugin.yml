@@ -1,0 +1,11 @@
+name: Modes
+version: '1.0'
+main: de.merlin.Main
+api-version: '1.20'
+authors: [MMerlins]
+
+commands:
+  modes:
+    description: Modes Command
+    usage: /modes
+    aliases: [m]
